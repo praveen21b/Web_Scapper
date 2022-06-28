@@ -1,0 +1,9 @@
+Flask
+bs4
+requests
+flask_cors
+requests
+sys
+os
+logging
+-e .
